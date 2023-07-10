@@ -1,1 +1,1 @@
-# drf-auth
+# drf-api
